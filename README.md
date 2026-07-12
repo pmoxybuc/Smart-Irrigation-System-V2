@@ -63,15 +63,6 @@ The buzzer alerts the user according to the soil condition.
 
 ---
 
-## Project Images
-
-- Hardware Setup
-- OLED Display
-- Blynk Dashboard
-- Circuit Diagram
-
----
-
 ## Future Improvements
 
 - Automatic pump control using relay
